@@ -5,3 +5,8 @@
 2. Need to create an pull request after the deadline of code period .
 3. For the first phase of the hackathon, you have to rename the ***submission_README.md*** file to ***README.md*** and update it with your idea in the format specified in the file.
 4. The deadline to complete the above task is --------------.
+
+
+
+
+CHAITUUU WELCOME TO THE NEW CLASS
